@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "wave yourself": "Portfolio" },
+    "logo": { "text": "wave yourself" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
